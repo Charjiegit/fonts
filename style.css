@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Charjie";
+  src: url("./Charjie-Regular%20(1)%20(1).otf") format("opentype");
+}
+
+* {
+  font-family: "Charjie" !important;
+}
